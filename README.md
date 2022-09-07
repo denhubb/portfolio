@@ -6,7 +6,9 @@ This portfolio shows my training as a QA engineer.
 
 ----
 
-[Test-plan with check-list](https://drive.google.com/drive/folders/1N6lv0p3NMR6ewneomQAKFjPQgJIPT1zW?usp=sharing)
+[Test Plan with Checklist](https://drive.google.com/drive/folders/1N6lv0p3NMR6ewneomQAKFjPQgJIPT1zW?usp=sharing)
 
-[State-transition diagram](https://miro.com/app/board/uXjVOiL8WsI=/?share_link_id=690158280119)
+[Test Case](https://docs.google.com/spreadsheets/d/145tTVAnc4eMMmlKwyy-Vt59JjaRaKS7IJQxU5AwAP-k/edit?usp=sharing)
+
+[State & Transition Diagram](https://miro.com/app/board/uXjVOiL8WsI=/?share_link_id=690158280119)
 
